@@ -3,7 +3,7 @@ layout: page
 title: SkyFall[Tmp]
 ---
 
-![logo](/assets/logo.png){:.logo}
+![logo](/assets/cloud-7-64.png){:.logo}
 
 SkyFall is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Cloud environments.  
 
