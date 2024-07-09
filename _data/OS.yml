@@ -1,8 +1,8 @@
 ---
-Linux:
-  label: Linux
-  description: Command can be run on Linux.
+External:
+  label: External
+  description: Completly outside of the env (do not have a user or any creds)
 
-Windows:
-  label: Windows
-  description: Command can be run on Windows.
+Internal:
+  label: Internal
+  description: Holding creds or related information (Authenticated).
