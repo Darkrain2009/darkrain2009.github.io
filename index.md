@@ -14,7 +14,5 @@ This project was inspired by [GTFOBins][GTFOBins] and [LOLBAS][LOLBAS]. I relied
 [filters]: /filters/
 [GTFOBins]: https://gtfobins.github.io/
 [LOLBAS]: https://lolbas-project.github.io/
-[collaborative]: https://github.com/WADComs/WADComs.github.io
-[contribute]: /contribute/
 
 {% include bin_table.html %}
