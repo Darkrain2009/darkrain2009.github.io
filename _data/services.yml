@@ -1,32 +1,20 @@
 ---
-SMB:
-  label: SMB
-  description: You've found the SMB service open  and need to know what you can do with it.
+AWS:
+  label: AWS
+  description: Amazon Web Services cloud environment providing a wide range of on-demand cloud computing platforms.
 
-WMI:
-  label: WMI
-  description: You've found the Windows Management Intstrumentation (WMI) service open and need to know what you can do with it.
+Azure:
+  label: Azure
+  description: Microsoft Azure cloud platform offering a variety of cloud services including analytics, storage, and networking.
 
-DCOM:
-  label: DCOM
-  description: You've found the DCOM service open and need to know what you can do with it.
+Google Cloud:
+  label: Google Cloud
+  description: Google Cloud Platform providing cloud computing services on the same infrastructure as Google Search and YouTube.
 
-Kerberos:
-  label: Kerberos
-  description: You've found the kerberos service open and need to know what you can do with it.
+Oracle Cloud:
+  label: Oracle Cloud
+  description: Oracle Cloud Infrastructure offering high-performance computing and storage services.
 
-RPC:
-  label: RPC
-  description: You've found the RPC service open and need to know what you can do with it.
-
-LDAP:
-  label: LDAP
-  description: You've found the LDAP service open and need to know what you can do with it.
-
-NTLM:
-  label: NTLM
-  description: Command relates to the NTLM protocol.
-
-DNS:
-  label: DNS
-  description: Command relates to the DNS service.
+Alibaba Cloud:
+  label: Alibaba Cloud
+  description: Alibaba Cloud, also known as Aliyun, provides a comprehensive suite of global cloud computing services.
